@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Click Here](https://k-afk-a.github.io/FirstSocialLinkProject/)
 
 
 ### Built with
@@ -35,7 +35,6 @@ Users should be able to:
 - CSS custom properties
 - CSS Grid
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
