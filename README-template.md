@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Click Here](https://github.com/K-AFK-a/FirstSocialLinkProject)
 - Live Site URL: [Click Here](https://k-afk-a.github.io/FirstSocialLinkProject/)
 
 
