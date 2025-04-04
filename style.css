@@ -1,0 +1,84 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style-type: none;
+    box-sizing: border-box;
+}
+
+:root {
+    --PrimaryGreen: hsl(75, 94%, 57%);
+    --varWhite: hsl(0, 0%, 100%);
+    --Grey700: hsl(0, 0%, 20%);
+    --Grey800: hsl(0, 0%, 12%);
+    --Grey900: hsl(0, 0%, 8%);
+}
+
+body{
+    background-color: var(--Grey900);
+    /* min-height: 100vh; */
+    font-family: 'inter', sans-serif;
+    display: grid;
+    place-content: center;
+}
+
+.card {
+    background-color: var(--Grey800);
+    color: var(--varWhite);
+    padding: 2rem;
+    margin: 1rem;
+    max-width: 400px;
+    text-align: center;
+    border-radius: .75rem;
+}
+
+.card img{
+    margin-bottom: .5rem;
+    width: 75px;
+    border-radius: 50%;
+}
+
+.card h1{
+    font-size: 1.75rem;
+}
+
+.card .location{
+    color: var(--PrimaryGreen);
+    /* margin: .5rem 0 1.5rem; */
+    margin-top: .5rem;
+    margin-bottom: 1.5rem;
+    font-weight: 700;
+}
+
+.card ul{
+    margin-top: 1.5rem;
+
+}
+
+.card ul li{
+    margin-top: 1rem;
+}
+
+.card ul li a{
+    display: block;
+    background-color: var(--Grey700);
+    color: var(--varWhite);
+    padding: 1rem;
+    font-weight: 600;
+    border-radius: .5rem;
+}
+
+.card ul li a:hover{
+    background-color: var(--PrimaryGreen);
+    color: var(--Grey900);
+}
+
+.attribution a{
+    color: var(--varWhite);
+}
+.attribution a:hover{
+    color: var(--PrimaryGreen);
+}
+.attribution {
+    color: aqua;
+}
